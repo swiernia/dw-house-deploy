@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on DW-House - Lubin</title>
-    <link>https://swiernia.github.io/categories/</link>
-    <description>Recent content in Categories on DW-House - Lubin</description>
+    <title>Categories on DW-House</title>
+    <link>https://dw-house.pl/categories/</link>
+    <description>Recent content in Categories on DW-House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://swiernia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dw-house.pl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
